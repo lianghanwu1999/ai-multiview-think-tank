@@ -1,0 +1,5 @@
+interface:
+  display_name: "智囊议会"
+  short_description: "5位独立顾问+1位主席的多维度分析决策模式"
+  brand_color: "#8B5CF6"
+  default_prompt: "启动智囊议会模式，帮我分析以下问题"
